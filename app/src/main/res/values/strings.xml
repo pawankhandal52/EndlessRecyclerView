@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EndlessRecyclerView</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="release_date">Release date</string>
+    <string name="orignal_language">Orignal Language</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.</string>
+    <string name="adult">adult</string>
+</resources>
